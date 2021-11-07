@@ -8,7 +8,7 @@
       "name": "(Windows) Launch",
       "type": "cppvsdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/heraldns/heraldns.exe",
+      "program": "${workspaceFolder}/build/heraldns-cli/Debug/heraldns-cli.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}/build/heraldns",
